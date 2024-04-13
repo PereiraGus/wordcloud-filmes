@@ -1,7 +1,7 @@
 # wordcloud-filmes
 Script Python que gera uma nuvem de palavras baseada nos gostos cinematográficos do usuário.
 
-![Versão 0.1](https://img.shields.io/badge/vers%C3%A3o-0.1-yellow
+![Versão 0.1](https://img.shields.io/badge/vers%C3%A3o-beta%200.1-yellow
 )
 
 ## Como utilizar?
@@ -47,3 +47,7 @@ O arquivo ```.env``` está inclúido no ```.gitignore```, ou seja, não será ca
 ### 4. Executando
 Com o terminal ou IDE dentro do ambiente virtual com os arquivos necessários, execute o arquivo ```main.py```.
 
+### Exemplo de Wordcloud
+![wordcloud](https://github.com/PereiraGus/wordcloud-filmes/blob/main/wordclouds/sampleHorrorGus.svg)
+
+### 
